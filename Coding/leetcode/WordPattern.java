@@ -46,3 +46,10 @@ class Solution {
         return false;
     }
 }
+
+
+/*Success
+Details 
+Runtime: 7 ms, faster than 5.86% of Java online submissions for Word Pattern.
+Memory Usage: 39.8 MB, less than 7.03% of Java online submissions for Word Pattern.
+*/
