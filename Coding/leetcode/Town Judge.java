@@ -15,3 +15,10 @@ class Solution {
     return -1;
   }
 }
+
+
+/*Success
+Details 
+Runtime: 3 ms, faster than 91.76% of Java online submissions for Find the Town Judge.
+Memory Usage: 47.1 MB, less than 74.21% of Java online submissions for Find the Town Judge.
+*/
