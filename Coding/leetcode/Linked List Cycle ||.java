@@ -1,4 +1,4 @@
-/** ----------------------- Question: https://leetcode.com/problems/linked-list-cycle-ii/ ---------------------------------**/
+/** ----------------------- Question: https://leetcode.com/problems/linked-list-cycle-ii/ ---------------------------------
  * Definition for singly-linked list.
  * class ListNode {
  *     int val;
@@ -30,3 +30,9 @@ public class Solution {
         return null;
     }
 }
+
+/*Success
+Details 
+Runtime: 0 ms, faster than 100.00% of Java online submissions for Linked List Cycle II.
+Memory Usage: 39.2 MB, less than 67.35% of Java online submissions for Linked List Cycle II.
+*/
